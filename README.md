@@ -1,5 +1,5 @@
 # Dataguard-project
-Intelligent Personal Data Leak Detector and Alert
+Intelligent Personal Data Leak Detector and Alert Systems
 ## Project Overview
 Design and develop an intelligent system to detect personal data leaks from various sources, alert affected individuals, and provide personalized remediation guides.
 ## System Components
